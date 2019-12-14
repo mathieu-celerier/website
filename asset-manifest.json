@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.b9fb8596.chunk.css",
+    "main.js": "/website/static/js/main.06fb3041.chunk.js",
+    "main.js.map": "/website/static/js/main.06fb3041.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.19708152.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.19708152.js.map",
+    "static/js/2.ce6ebb28.chunk.js": "/website/static/js/2.ce6ebb28.chunk.js",
+    "static/js/2.ce6ebb28.chunk.js.map": "/website/static/js/2.ce6ebb28.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.36fac5191cdc2a4c05f2a08a351e3605.js": "/website/precache-manifest.36fac5191cdc2a4c05f2a08a351e3605.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.b9fb8596.chunk.css.map": "/website/static/css/main.b9fb8596.chunk.css.map",
+    "static/media/AI.jpg": "/website/static/media/AI.d6bfc188.jpg",
+    "static/media/Embedded.jpg": "/website/static/media/Embedded.b10fe1c5.jpg",
+    "static/media/App.css": "/website/static/media/my-work.85b3a637.png",
+    "static/media/Logo_Jour.png": "/website/static/media/Logo_Jour.74752ed2.png",
+    "static/media/Robotic-Vector.jpg": "/website/static/media/Robotic-Vector.7fa187c7.jpg",
+    "static/media/Web-Dev.jpg": "/website/static/media/Web-Dev.122e627a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19708152.js",
+    "static/js/2.ce6ebb28.chunk.js",
+    "static/css/main.b9fb8596.chunk.css",
+    "static/js/main.06fb3041.chunk.js"
+  ]
+}
